@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nithin3q
+- 👋 Hi, I’m @nithin
 - 👀 I’m interested in app development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
