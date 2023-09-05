@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Visitors-2000-red/>
+  <img src="https://img.shields.io/badge/Visitors-2000-blue />
 </div>
 
 ###
