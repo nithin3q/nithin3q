@@ -19,18 +19,6 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm from Amalapuram<br><br>- 🔭 I’m working as web developer<br>- 📚 I'm currently learning .net<br>- ⚡ In my free time I watch tutorials on ethical hacking.</p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -54,6 +42,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40" alt="bootstrap logo"  />
 </div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm from Amalapuram<br><br>- 🔭 I’m working as web developer<br>- 📚 I'm currently learning .net<br>- ⚡ In my free time I watch tutorials on ethical hacking.</p>
+
+
 
 ###
 
