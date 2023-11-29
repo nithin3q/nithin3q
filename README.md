@@ -38,8 +38,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
@@ -61,7 +59,7 @@
 
 ###
 
-<p align="left">I'm from Amalapuram<br><br>- 🔭 I’m working as web developer<br>- 📚 I'm currently learning .net<br>- ⚡ In my free time I watch tutorials on ethical hacking.</p>
+<p align="left">I'm from Amalapuram<br><br>- 🔭 I’m working as web developer<br>- 📚 I'm currently learning nodeJs<br>- ⚡ In my free time I watch tutorials on ethical hacking.</p>
 
 
 
