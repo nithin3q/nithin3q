@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/nithin-kumar-58512924a/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
   <a href="https://www.instagram.com/nithin_3569/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=Instagram&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
-<a href="https://nithn-kumar.000webhostapp.com/"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=person&label=&color=FF0ff0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
+<a href="https://nithin-appari.netlify.app/"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=person&label=&color=FF0ff0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
 </div>
 
 ###
